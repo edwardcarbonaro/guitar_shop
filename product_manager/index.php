@@ -72,3 +72,13 @@ if ($action == 'list_products') {
     header('Location: .?action=list_categories');      // display the Category List page
 }
 ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="../main.css">
+</head>
+<body>
+
+</body>
+</html>

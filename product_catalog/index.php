@@ -53,3 +53,14 @@ if ($action == 'list_products') {
     }
 }
 ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="../main.css">
+</head>
+<body>
+
+</body>
+</html>

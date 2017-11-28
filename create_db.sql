@@ -1,4 +1,4 @@
-USE yz746;  -- MySQL command
+USE ejc23;  -- MySQL command
 drop table categories;
 drop table products;
 drop table orders;
